@@ -14,8 +14,9 @@ Contact Information:
 -  **Languages :** Python, R, MS SQL server
 -  **Tools :** Microsoft Office Suite, SPSS Modeler, Visio Studio, Google Analytics
 -  **Hobbies :** Badminton 🏸: & Music 🎧: Swimming 🏊:
--  **Fact :** Python programming get me into my current Master program: happy:
--  **Contact me :** [Zhengmao Ye](mailto:zhengmao.ye@du.edu)
+-  **Fact :** Always know what you are about to do before you make the next step
+-  **Contact me :** [Zhengmao Ye](mailto:zhengmao.ye@du.edu) 
+-  ** Linkedin: **  [Zhengmao Ye](https://www.linkedin.com/in/zhengmao-ye/)
 
 
 ### Languages and Tools
