@@ -13,8 +13,8 @@ Contact Information:
  
 -  **Languages :** Python, R, MS SQL server
 -  **Tools :** Microsoft Office Suite, SPSS Modeler, Visio Studio, Google Analytics
--  **Hobbies :** Badminton 🏸: & Music 🎧
--  **Fact :** First solve the problem, then write the code :heart:
+-  **Hobbies :** Badminton 🏸: & Music 🎧: Swimming 🏊:
+-  **Fact :** Python programming get me into my current Master program: happy:
 -  **Contact me :** [Zhengmao Ye](mailto:zhengmao.ye@du.edu)
 
 
