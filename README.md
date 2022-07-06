@@ -1,11 +1,11 @@
 ###  :man_technologist:  [Zhengmao Ye](https://github.com/ZhengmaoYe?tab=projects&type=beta)
 
-👋 Hi, I'm Zhengmao(Icarus) Ye,a passionate Graduate Student who is seeking an Internship or Entry Level job. I'm currently enrolled in Master of Science:Business Analytics program and expect to graduate in 06/2023. I'm analytical minded as demonstrated by advanced college coursework in programming and data analytics
+👋 Hi, I'm Zhengmao(Icarus) Ye,a passionate Graduate Student who is seeking an Internship or Entry Level job. I'm currently enrolled in Master of Science:Business Analytics program and expect to graduate in 06/2023. I'm analytical minded as demonstrated by advanced college coursework in programming and data analytics.
 
-Contact Information:
+**This website is where I store most of the projects I have done and Interesting Python codes I discovered. Hopefully You will find them useful**
+
 [![ZhengmaoYe's github stats](https://github-readme-stats.vercel.app/api?username=ZhengmaoYe)](https://github.com/ZhengmaoYe/github-readme-stats)
 
-[![ZhengmaoYe's github stats](https://imwnk-github-stats.vercel.app/api?username=ZhengmaoYe&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ZhengmaoYe)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
