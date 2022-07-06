@@ -13,7 +13,7 @@ Contact Information:
  
 -  **Languages :** Python, R, MS SQL server
 -  **Tools :** Microsoft Office Suite, SPSS Modeler, Visio Studio, Google Analytics
--  **Hobbies :** Badminton 🏸: & Music 🎧: Swimming: Swimming
+-  **Hobbies :** Badminton 🏸: & Music 🎧
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** [Zhengmao Ye](mailto:zhengmao.ye@du.edu)
 
