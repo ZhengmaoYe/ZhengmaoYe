@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Zhengmao(Icarus) Ye,a passionate Graduate Student who is seeking an Internship or Entry Level job. I'm currently enrolled in Master of Science:Business Analytics program and expect to graduate in 06/2023. I'm analytical minded as demonstrated by advanced college coursework in programming and data analytics.
 
-**This website is where I store most of the projects I have done and Interesting Python codes I discovered. Hopefully You will find them useful**
+**I store most of the projects I have done and Interesting Python codes I discovered here. Hopefully You will find them useful**
 
 [![ZhengmaoYe's github stats](https://github-readme-stats.vercel.app/api?username=ZhengmaoYe)](https://github.com/ZhengmaoYe/github-readme-stats)
 
